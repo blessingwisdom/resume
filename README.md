@@ -18,6 +18,7 @@ The view folder has all application screens and the widgets folder contains the 
 I got inspiration from the [example](https://dribbble.com/shots/14436103-Resume-App) that was posted with the question.
 
 ## APK Link
+https://drive.google.com/file/d/1OafRIV7a1UHsJRzfxkL5hSmTZDT0lCmb/view?usp=sharing
 
 ## Challenges
 Design aka UI, it was really tough coming up with one.
@@ -25,7 +26,7 @@ Design aka UI, it was really tough coming up with one.
 ## Appetize.io link
 https://appetize.io/app/a4t3q7hu45blmkdgkhjdbud5ia?device=pixel4&osVersion=12.0&scale=75
 
-## Screenshot
+
 
 
 
