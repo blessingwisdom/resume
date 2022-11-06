@@ -26,6 +26,9 @@ Design aka UI, it was really tough coming up with one.
 ## Appetize.io link
 https://appetize.io/app/a4t3q7hu45blmkdgkhjdbud5ia?device=pixel4&osVersion=12.0&scale=75
 
+## Screenshot
+![alt text](assets/images/screenshot.jpg)
+
 
 
 
