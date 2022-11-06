@@ -15,7 +15,7 @@ The view folder has all application screens and the widgets folder contains the 
  * MediaQuery: used for responsiveness.
 
 ## Description of the Design
-I got inspiration from the [example] (https://dribbble.com/shots/14436103-Resume-App) that was posted with the question.
+I got inspiration from the [example](https://dribbble.com/shots/14436103-Resume-App) that was posted with the question.
 
 ## APK Link
 
